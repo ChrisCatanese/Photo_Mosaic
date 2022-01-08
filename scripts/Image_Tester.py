@@ -5,10 +5,10 @@ from PIL import Image
 import numpy as np
 
 parser = argparse.ArgumentParser(description='Checks background images for correct number of channels')
-parser.add_argument('--images', dest='images', required=True, help="Diectory of images")
+parser.add_argument('--images', dest='images', required=False, help="Diectory of images")
+parser.set_defaults(images='E:\Documents\GitHub\Photo_Mosaic\data\Trees')
 
 args = parser.parse_args()
-
 
 moveme = []
 ## This tests to make sure the dimensions of all the photos are the same
