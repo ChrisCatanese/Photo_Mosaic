@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "seunlanlege.action-buttons",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "charliermarsh.ruff",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml",
+    "redhat.vscode-yaml"
+  ]
+}
